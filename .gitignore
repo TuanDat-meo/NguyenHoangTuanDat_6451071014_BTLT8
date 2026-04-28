@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+.metadata
+.packages
+.pub-cache/
+.pub/
+/android/app/build.gradle

@@ -1,0 +1,35 @@
+name: btlt8
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Thư viện cho SQLite
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  
+  # Thư viện Quản lý trạng thái
+  get: ^4.6.6
+  
+  # Thư viện cho Bài 3: Lấy đường dẫn lưu file JSON
+  path_provider: ^2.1.2 
+  
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Thường đặt ở dev_dependencies
+
+flutter:
+  uses-material-design: true
+
+  # Cấu hình Assets cho Bài 5
+  assets:
+    - assets/data/dictionary.json
