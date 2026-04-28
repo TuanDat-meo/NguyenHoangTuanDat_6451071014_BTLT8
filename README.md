@@ -1,14 +1,14 @@
 # btlt8
 Bài 1
-![Detail Screen](screenshot/cau1.png)
+![Detail Screen](screenshots/cau1.png)
 Bài 2
-![Detail Screen](screenshot/cau2.png)
+![Detail Screen](screenshots/cau2.png)
 Bài 3
-![Detail Screen](screenshot/cau3.png)
+![Detail Screen](screenshots/cau3.png)
 Bài 4
-![Detail Screen](screenshot/cau4.png)
+![Detail Screen](screenshots/cau4.png)
 Bài 5
-![Detail Screen](screenshot/cau5.png)
+![Detail Screen](screenshots/cau5.png)
 A new Flutter project.
 
 ## Getting Started
